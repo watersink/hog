@@ -3,12 +3,14 @@ A tony demo of human detection using HOG
 ## Requirements:
 * cmake
 download from the [officer website](https://cmake.org/download/)
+> 
   sudo ./bootstrap
   sudo make
   sudo make install
   cmake --version
 * opencv,any version is OK
 download from the [officer website](https://opencv.org/)
+> 
   unzip opencv-2.4.12.zip
   cd opencv-2.4.12
   mkdir  build
